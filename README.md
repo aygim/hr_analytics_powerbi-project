@@ -5,7 +5,7 @@ A comprehensive HR analytics solution built in **Microsoft Power BI** to monitor
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](_HR_Attrition_Dashboard_.png)
+![Dashboard Preview](preview.png)
 
 ---
 
