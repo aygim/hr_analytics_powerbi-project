@@ -4,6 +4,11 @@ A comprehensive HR analytics solution built in **Microsoft Power BI** to monitor
 
 ---
 
+## Dashboard Preview
+![Dashboard Preview](_HR_Attrition_Dashboard_.png)
+
+---
+
 ## Project Overview
 This project provides data-driven insights into employee distribution, departmental diversity, compensation trends, and performance evaluations. It is designed to help HR leaders and management track key workforce KPIs, understand attrition factors, and optimize talent management.
 
